@@ -1,0 +1,14 @@
+machine:
+  node:
+    version: 7.3.0
+
+dependencies:
+  override:
+    - make init
+  cache_directories:
+    - ~/.cache/yarn
+
+test:
+  override:
+    - make ci
+
