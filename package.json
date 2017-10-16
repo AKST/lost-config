@@ -5,6 +5,9 @@
   "main": "./dist/src/index.js",
   "author": "Angus Thomsen <hmu@akst.io>",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "devDependencies": {
     "babel-cli": "^6.24.0",
     "babel-eslint": "^7.2.1",
