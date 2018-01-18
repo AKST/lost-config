@@ -86,7 +86,7 @@ You end up with this (which of course needs to be passed through another css pos
 The alternative to this is, importing your gutter values with your
 media query values indivisually into every place that uses the grid
 system. We were doing that at our work place originally and someone
-called in a tyre fire.
+called it a tyre fire.
 
 ## Contributing
 
